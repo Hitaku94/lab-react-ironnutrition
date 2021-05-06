@@ -137,7 +137,7 @@ If you don't remember how to create responsive columns with Bulma, you can check
 
 ### Iteration 6 | Bonus | Group ingredients
 
-You made an awesome application, but you have found a little problem in the UX. For example, if you click twice on "Pizza", it will display 2 lines "_1 Pizza = 400 cal_" instead of 1 line "_2 Pizza = 800 cal_". Fix that problem.
+You made an awesome cal_" instead of 1 line "_2 Pizza = 800 cal_". Fix that problem.application, but you have found a little problem in the UX. For example, if you click twice on "Pizza", it will display 2 lines "_1 Pizza = 400 
 
 ### Iteration 7 | Bonus | Allow the user to remove an ingredient
 
